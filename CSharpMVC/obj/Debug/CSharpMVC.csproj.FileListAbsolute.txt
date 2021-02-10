@@ -177,8 +177,8 @@ C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\bin\zh-Hant\System.Web.Raz
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\obj\Debug\CSharpMVC.csprojAssemblyReference.cache
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\obj\Debug\CSharpMVC.csproj.CoreCompileInputs.cache
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\obj\Debug\CSharpMVC.csproj.CopyComplete
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\obj\Debug\CSharpMVC.dll
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\obj\Debug\CSharpMVC.pdb
+C:\Users\Hougana\Documents\GitHub\CSharpMVC\CSharpMVC\obj\Debug\CSharpMVC.csprojAssemblyReference.cache

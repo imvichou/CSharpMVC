@@ -71,8 +71,8 @@ C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\bin\zh-Hant\System.We
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\bin\zh-Hant\System.Web.Helpers.resources.dll
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\bin\zh-Hant\System.Web.Mvc.resources.dll
-C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\obj\Debug\Ch4_FileUpload.csprojAssemblyReference.cache
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\obj\Debug\Ch4_FileUpload.csproj.CoreCompileInputs.cache
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\obj\Debug\Ch4_FileUpload.csproj.CopyComplete
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\obj\Debug\Ch4_FileUpload.dll
 C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\obj\Debug\Ch4_FileUpload.pdb
+C:\Users\Hougana\Documents\GitHub\CSharpMVC\Ch4_FileUpload\obj\Debug\Ch4_FileUpload.csprojAssemblyReference.cache
