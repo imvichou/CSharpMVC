@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Ch6_HtmlHelper.Models.Product>
+
+@{
+    ViewBag.Title = "首頁";
+}
+
+<h2>暢銷好書</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        @Html.Partial("_ColPartial", item)
+    }
+</div>
+
